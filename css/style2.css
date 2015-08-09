@@ -67,6 +67,20 @@ body{
     background: #FFFF77;
 }
 
+.navbar-nav li{
+    min-width: 120px;
+    text-align: center;
+    font-size: 17px;
+}
+
+.navbar-brand{
+    min-width: 100px;
+    padding-left: 100px;
+    }
+    
+    
+
+
 #Header{
     background: #FFFFFF;
     height: 130px;
@@ -107,3 +121,16 @@ a{
 
 }
 
+.footer{
+    width: 100%;
+    font-size: 17px;
+    color: #444444;
+    font-weight: bold;
+    padding-top: 150px;
+    text-align: center;
+}
+.column-middle-lower{
+    font-size: 50px;
+    padding-left: 370px
+
+}
