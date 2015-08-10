@@ -48,13 +48,28 @@ a{
     width: 20%;
     margin-left: 5%;
     margin-bottom: 200px;
+    margin-top: 30px;
     min-height: 800px;
     border-width: 3px;
     border-style: dashed;
     border-color: #CC00CC;
-    background:linear-gradient(left,#FF7744,#FFFF33);
-    background:-moz-linear-gradient(left,#FF7744,#FFFF33);
-    background:-webkit-linear-gradient(left,#FF7744,#FFFF33);
+    background:linear-gradient(top,#FFFFBB,#FFFF33);
+    background:-moz-linear-gradient(top,#FFFFBB,#FFFF33);
+    background:-webkit-linear-gradient(top,#FFFFBB,#FFFF33);
     font-size: 30px;
+    padding-top: 10px;
     padding-left: 70px;
+}
+.navbar{
+    height: 60px;
+}
+.navbar-nav li{
+    min-width: 120px;
+    text-align: center;
+    font-size: 17px;
+}
+
+.navbar-brand{
+    min-width: 100px;
+    padding-left: 100px;
 }
