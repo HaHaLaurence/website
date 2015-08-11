@@ -96,12 +96,6 @@ body{
 }
 
 
-#Note{
-    float: right;
-    padding-right: 300px;
-    padding-top: 5px;
-    font-size: 25px;
-}
 
 h1{
     color: #770077;
@@ -109,12 +103,7 @@ h1{
     font-size: 50px;
 }
 
-h2{
-    color: #00FFFF;
-    background: #CC00CC;
-    font-size: 30px;
 
-}
 
 a{
    color: #9955FF;
