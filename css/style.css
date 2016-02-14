@@ -1,0 +1,40 @@
+body{
+    background: #FFBB00;
+    margin: 0px;
+}
+
+#Header{
+    background: #FFFFFF;
+    height: 80px;
+    padding-left: 10px;
+    background:linear-gradient(top,#FFFFFF,#33FF33);
+    background:-moz-linear-gradient(top,#FFFFFF,#33FF33);
+    background:-webkit-linear-gradient(top,#FFFFFF,#33FF33);
+}
+
+#Title{
+    float: left;
+}
+
+#Note{
+    float: right;
+    padding-right: 300px;
+    padding-top: 5px;
+    font-size: 25px;
+}
+
+h1{
+    color: #7700FF;
+    padding-top: 3px;
+}
+
+h2{
+    color: #00FFFF;
+    background: #CC00CC;
+    font-size: 30px;
+
+}
+a{
+   color: #9955FF;
+
+}
